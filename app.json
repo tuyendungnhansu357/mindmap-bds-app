@@ -24,7 +24,6 @@
     },
     "plugins": [
       "expo-router",
-      "expo-sqlite",
       "expo-secure-store"
     ],
     "extra": {
